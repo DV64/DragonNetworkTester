@@ -3,7 +3,7 @@ All notable changes to DragonNetworkTester project will be documented in this fi
 
 ## [1.0.0] - 2024-12-21
 
-### ✨ New Features
+### ✨ Features
 - Advanced UI interface with modern graphical design
 - Real-time system resource monitoring
 - Detailed network performance statistics display
@@ -35,12 +35,6 @@ All notable changes to DragonNetworkTester project will be documented in this fi
 - Requires Python 3.8 or higher
 - External dependencies listed in requirements.txt
 - Tested on Windows/Linux/MacOS
-
-### 🐛 Bug Fixes
-- Resolved banner display issues
-- Improved connection loss handling
-- Fixed statistics display issues
-- Addressed memory leaks in long-running tests
 
 ### 🔐 Security
 - Input validation implementation
